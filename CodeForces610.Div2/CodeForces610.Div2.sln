@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.TemporarilyUnavailable", "A.TemporarilyUnavailable\A.TemporarilyUnavailable.csproj", "{58480A86-9E56-4BED-893A-9C5C869DE7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1.KForThePriceOfOne", "B1.KForThePriceOfOne\B1.KForThePriceOfOne.csproj", "{E5EB42A3-274B-415F-9F60-A545F036D20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2.KForThePriceOfOne", "B2.KForThePriceOfOne\B2.KForThePriceOfOne.csproj", "{52288725-24E3-4748-89F9-D2C646DBE59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C.PetyaAndExam", "C.PetyaAndExam\C.PetyaAndExam.csproj", "{3D7A2674-C75C-4557-9995-36847902F49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D.EnchantedArtifact", "D.EnchantedArtifact\D.EnchantedArtifact.csproj", "{A47C87C6-18C8-4FF2-B9F3-8EDDE0E52299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E.TheCakeIsALie", "E.TheCakeIsALie\E.TheCakeIsALie.csproj", "{13A0BDFF-3D20-4321-B1CB-5E854CD4528C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58480A86-9E56-4BED-893A-9C5C869DE7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58480A86-9E56-4BED-893A-9C5C869DE7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58480A86-9E56-4BED-893A-9C5C869DE7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58480A86-9E56-4BED-893A-9C5C869DE7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EB42A3-274B-415F-9F60-A545F036D20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EB42A3-274B-415F-9F60-A545F036D20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EB42A3-274B-415F-9F60-A545F036D20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EB42A3-274B-415F-9F60-A545F036D20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52288725-24E3-4748-89F9-D2C646DBE59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52288725-24E3-4748-89F9-D2C646DBE59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52288725-24E3-4748-89F9-D2C646DBE59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52288725-24E3-4748-89F9-D2C646DBE59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7A2674-C75C-4557-9995-36847902F49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7A2674-C75C-4557-9995-36847902F49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7A2674-C75C-4557-9995-36847902F49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7A2674-C75C-4557-9995-36847902F49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47C87C6-18C8-4FF2-B9F3-8EDDE0E52299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47C87C6-18C8-4FF2-B9F3-8EDDE0E52299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47C87C6-18C8-4FF2-B9F3-8EDDE0E52299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47C87C6-18C8-4FF2-B9F3-8EDDE0E52299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A0BDFF-3D20-4321-B1CB-5E854CD4528C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A0BDFF-3D20-4321-B1CB-5E854CD4528C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A0BDFF-3D20-4321-B1CB-5E854CD4528C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A0BDFF-3D20-4321-B1CB-5E854CD4528C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
